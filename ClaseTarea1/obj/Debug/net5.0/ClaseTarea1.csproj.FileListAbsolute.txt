@@ -1,0 +1,12 @@
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\obj\Debug\net5.0\ClaseTarea1.csproj.AssemblyReference.cache
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\obj\Debug\net5.0\ClaseTarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\obj\Debug\net5.0\ClaseTarea1.AssemblyInfoInputs.cache
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\obj\Debug\net5.0\ClaseTarea1.AssemblyInfo.cs
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\obj\Debug\net5.0\ClaseTarea1.csproj.CoreCompileInputs.cache
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\bin\Debug\net5.0\ClaseTarea1.deps.json
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\bin\Debug\net5.0\ClaseTarea1.dll
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\bin\Debug\net5.0\ref\ClaseTarea1.dll
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\bin\Debug\net5.0\ClaseTarea1.pdb
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\obj\Debug\net5.0\ClaseTarea1.dll
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\obj\Debug\net5.0\ref\ClaseTarea1.dll
+C:\Users\benjamin.salas\source\repos\ClaseTarea1\obj\Debug\net5.0\ClaseTarea1.pdb
