@@ -1,0 +1,1 @@
+[{"CNomEstad":"Alaska","Cantidad":212},{"CNomEstad":"Florida","Cantidad":208}]

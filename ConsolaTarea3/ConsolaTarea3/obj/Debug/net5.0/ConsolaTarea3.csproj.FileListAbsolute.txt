@@ -1,0 +1,12 @@
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\bin\Debug\net5.0\ConsolaTarea3.deps.json
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\bin\Debug\net5.0\ConsolaTarea3.dll
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\bin\Debug\net5.0\ref\ConsolaTarea3.dll
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\bin\Debug\net5.0\ConsolaTarea3.pdb
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\obj\Debug\net5.0\ConsolaTarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\obj\Debug\net5.0\ConsolaTarea3.AssemblyInfoInputs.cache
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\obj\Debug\net5.0\ConsolaTarea3.AssemblyInfo.cs
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\obj\Debug\net5.0\ConsolaTarea3.csproj.CoreCompileInputs.cache
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\obj\Debug\net5.0\ConsolaTarea3.dll
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\obj\Debug\net5.0\ref\ConsolaTarea3.dll
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\obj\Debug\net5.0\ConsolaTarea3.pdb
+C:\Users\benjamin.salas\source\repos\ConsolaTarea3\ConsolaTarea3\obj\Debug\net5.0\ConsolaTarea3.csproj.AssemblyReference.cache
